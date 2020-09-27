@@ -1,1 +1,1 @@
-# twilightsparkle.githup.io
+# twilightsparkle.github.io
